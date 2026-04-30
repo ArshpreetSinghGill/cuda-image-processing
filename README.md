@@ -4,15 +4,15 @@
 
 This project implements a configurable GPU-accelerated image processing pipeline using CUDA. It processes over 100 images from the USC SIPI dataset and applies multiple transformations using custom CUDA kernels.
 
-Unlike a fixed pipeline, this system supports multiple processing modes through command-line arguments, allowing dynamic selection of different GPU-based operations such as edge detection, histogram equalization, and sharpening.
+The system supports multiple processing modes through command-line arguments, allowing dynamic selection of GPU-based operations such as edge detection, histogram equalization, and sharpening.
 
 ---
 
 ## Features
 
 * Batch processing of 100+ images
-* GPU acceleration using CUDA kernels
-* Multiple configurable processing modes:
+* GPU acceleration using custom CUDA kernels
+* Multiple processing modes:
 
   * Edge Detection (Grayscale + Blur + Sobel)
   * Histogram Equalization
@@ -30,24 +30,21 @@ Unlike a fixed pipeline, this system supports multiple processing modes through 
   * Textures (~64 images)
   * Miscellaneous (~39 images)
 
+> Note: Dataset is not included in the repository to keep it lightweight.
+
 ---
 
 ## Project Structure
 
 ```
-cuda_image_project/
-├── data/
-│   ├── input/
-│   └── output/
-│       ├── edge/
-│       ├── equalized/
-│       └── sharpen/
+project_code/
 ├── src/
 │   └── main.cu
 ├── results/
 │   ├── logs.txt
-│   ├── before/
-│   └── after/
+│   ├── edge/
+│   ├── equalized/
+│   └── sharpen/
 ├── Makefile
 ├── run.sh
 └── README.md
@@ -65,18 +62,24 @@ make
 
 ## How to Run
 
-### Run full pipeline (all modes)
+### Run full pipeline
 
 ```bash
 ./run.sh
 ```
 
-### Run specific mode manually
+---
+
+### Run manually
 
 ```bash
-./app data/input/textures data/output --mode=edge
-./app data/input/textures data/output --mode=equalize
-./app data/input/textures data/output --mode=sharpen
+./app <input_folder> <output_folder>
+```
+
+Example:
+
+```bash
+./app data/input/textures data/output
 ```
 
 ---
@@ -91,14 +94,12 @@ make
 
 ### 2. Histogram Equalization
 
-* Computes image histogram on GPU
-* Normalizes intensity distribution
-* Enhances contrast
+* Improves contrast of images
+* Redistributes pixel intensity values
 
 ### 3. Sharpening
 
-* Applies convolution-based sharpening filter
-* Enhances fine details in images
+* Enhances image details using convolution filters
 
 ---
 
@@ -117,21 +118,17 @@ data/output/
 
 ## Sample Results
 
-### Example (Edge Detection)
+Sample output images are included in the `results/` directory:
 
-**Input Image:**
-
-![Before](results/before/house.png)
-
-**Output:**
-
-![After](results/after/house.png)
+* `results/edge/` → Edge detection outputs
+* `results/equalized/` → Histogram equalized images
+* `results/sharpen/` → Sharpened images
 
 ---
 
 ## Performance
 
-Each image processing operation includes GPU execution timing:
+Each processing operation includes GPU execution timing:
 
 ```
 Time (edge): XX ms
@@ -146,21 +143,21 @@ This demonstrates the efficiency of parallel GPU computation for large-scale ima
 ## Proof of Execution
 
 * Execution logs: `results/logs.txt`
-* Batch processing of 100+ images across multiple modes
-* Output images generated for each processing type
+* Batch processing of 100+ images completed successfully
+* Multiple GPU processing modes executed in a single run
 
 ---
 
 ## Challenges & Learnings
 
-* Managing memory transfers between CPU and GPU
-* Designing efficient CUDA kernels for pixel-wise operations
-* Implementing histogram equalization using parallel computation
-* Structuring a configurable pipeline using CLI arguments
-* Understanding performance implications of GPU parallelism
+* Managing host ↔ device memory transfers
+* Designing efficient CUDA kernels
+* Implementing parallel image operations
+* Handling performance variation across image sizes
+* Building a configurable GPU processing pipeline
 
 ---
 
 ## Conclusion
 
-This project demonstrates how GPU acceleration using CUDA can significantly enhance performance for large-scale image processing tasks. By introducing configurable modes and multiple GPU kernels, the system evolves from a fixed pipeline to a flexible and extensible image processing framework.
+This project demonstrates how CUDA-based GPU acceleration significantly improves performance for large-scale image processing tasks. The configurable pipeline design makes the system flexible, extensible, and suitable for real-world applications.
