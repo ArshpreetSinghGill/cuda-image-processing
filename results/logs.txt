@@ -1,0 +1,636 @@
+==============================
+Running EDGE DETECTION...
+==============================
+Time (edge): 19.7297 ms
+Processed: 1.3.08.tiff
+Time (edge): 16.6521 ms
+Processed: 1.4.06.tiff
+Time (edge): 16.5357 ms
+Processed: 1.1.08.tiff
+Time (edge): 8.59803 ms
+Processed: texmos3.p512.tiff
+Time (edge): 9.89485 ms
+Processed: 1.3.11.tiff
+Time (edge): 12.8884 ms
+Processed: 1.5.02.tiff
+Time (edge): 14.5764 ms
+Processed: 1.4.03.tiff
+Time (edge): 17.129 ms
+Processed: 1.5.04.tiff
+Time (edge): 21.344 ms
+Processed: 1.2.12.tiff
+Time (edge): 2222.86 ms
+Processed: 1.1.01.tiff
+Time (edge): 1423.84 ms
+Processed: 1.5.06.tiff
+Time (edge): 2173.07 ms
+Processed: 1.1.05.tiff
+Time (edge): 2175.47 ms
+Processed: 1.1.06.tiff
+Time (edge): 1992.57 ms
+Processed: 1.4.05.tiff
+Time (edge): 1413.84 ms
+Processed: 1.2.09.tiff
+Time (edge): 1353.63 ms
+Processed: 1.1.11.tiff
+Time (edge): 1948 ms
+Processed: 1.2.07.tiff
+Time (edge): 2117.58 ms
+Processed: 1.2.13.tiff
+Time (edge): 1291.58 ms
+Processed: 1.3.02.tiff
+Time (edge): 2118.2 ms
+Processed: 1.3.13.tiff
+Time (edge): 2180.02 ms
+Processed: texmos2.p512.tiff
+Time (edge): 1371.44 ms
+Processed: 1.3.09.tiff
+Time (edge): 2189.38 ms
+Processed: texmos2.s512.tiff
+Time (edge): 2192.77 ms
+Processed: 1.3.07.tiff
+Time (edge): 1330.49 ms
+Processed: 1.2.03.tiff
+Time (edge): 2190.52 ms
+Processed: 1.1.02.tiff
+Time (edge): 2191.03 ms
+Processed: 1.4.02.tiff
+Time (edge): 2077.33 ms
+Processed: texmos3.s512.tiff
+Time (edge): 1319.39 ms
+Processed: 1.5.07.tiff
+Time (edge): 1777.89 ms
+Processed: 1.2.04.tiff
+Time (edge): 38.7957 ms
+Processed: 1.1.09.tiff
+Time (edge): 0.019905 ms
+Processed: 1.2.02.tiff
+Time (edge): 0.019277 ms
+Processed: 1.4.10.tiff
+Time (edge): 0.019486 ms
+Processed: 1.3.06.tiff
+Time (edge): 0.017461 ms
+Processed: 1.1.13.tiff
+Time (edge): 0.017949 ms
+Processed: 1.1.03.tiff
+Time (edge): 0.016134 ms
+Processed: 1.5.03.tiff
+Time (edge): 0.018439 ms
+Processed: 1.3.05.tiff
+Time (edge): 0.01795 ms
+Processed: 1.4.01.tiff
+Time (edge): 0.020743 ms
+Processed: 1.2.05.tiff
+Time (edge): 0.015575 ms
+Processed: 1.2.08.tiff
+Time (edge): 0.02654 ms
+Processed: 1.4.12.tiff
+Time (edge): 0.018858 ms
+Processed: 1.4.11.tiff
+Time (edge): 0.018997 ms
+Processed: 1.4.08.tiff
+Time (edge): 0.01788 ms
+Processed: 1.5.01.tiff
+Time (edge): 0.015575 ms
+Processed: 1.1.04.tiff
+Time (edge): 0.015645 ms
+Processed: 1.2.01.tiff
+Time (edge): 0.032197 ms
+Processed: 1.2.10.tiff
+Time (edge): 0.021721 ms
+Processed: 1.4.04.tiff
+Time (edge): 0.021721 ms
+Processed: 1.4.09.tiff
+Time (edge): 0.019835 ms
+Processed: 1.3.10.tiff
+Time (edge): 0.018439 ms
+Processed: 1.4.07.tiff
+Time (edge): 0.018019 ms
+Processed: 1.2.06.tiff
+Time (edge): 0.016133 ms
+Processed: 1.5.05.tiff
+Time (edge): 0.016553 ms
+Processed: texmos1.p512.tiff
+Time (edge): 0.015645 ms
+Processed: 1.2.11.tiff
+Time (edge): 0.018858 ms
+Processed: 1.3.01.tiff
+Time (edge): 0.018997 ms
+Processed: 1.3.12.tiff
+Time (edge): 0.017041 ms
+Processed: 1.1.12.tiff
+Time (edge): 0.017041 ms
+Processed: 1.3.04.tiff
+Time (edge): 0.016971 ms
+Processed: texmos3b.p512.tiff
+Time (edge): 0.016134 ms
+Processed: 1.3.03.tiff
+Time (edge): 0.016482 ms
+Processed: 1.1.10.tiff
+Time (edge): 0.016063 ms
+Processed: 1.1.07.tiff
+Total images processed: 64
+Time (edge): 0.249825 ms
+Processed: 4.2.07.tiff
+Time (edge): 0.018857 ms
+Processed: 5.1.14.tiff
+Time (edge): 0.01795 ms
+Processed: 5.1.09.tiff
+Time (edge): 0.016482 ms
+Processed: 5.1.13.tiff
+Time (edge): 0.016552 ms
+Processed: 7.1.02.tiff
+Time (edge): 0.017041 ms
+Processed: 4.1.08.tiff
+Time (edge): 0.01753 ms
+Processed: 5.3.02.tiff
+Time (edge): 0.016553 ms
+Processed: 5.2.08.tiff
+Time (edge): 0.016971 ms
+Processed: 7.1.05.tiff
+Time (edge): 0.016063 ms
+Processed: 7.2.01.tiff
+Time (edge): 0.018857 ms
+Processed: 4.2.01.tiff
+Time (edge): 0.01753 ms
+Processed: 4.2.05.tiff
+Time (edge): 0.019347 ms
+Processed: 7.1.10.tiff
+Time (edge): 0.016134 ms
+Processed: 5.1.12.tiff
+Time (edge): 0.019346 ms
+Processed: 5.3.01.tiff
+Time (edge): 0.018927 ms
+Processed: house.tiff
+Time (edge): 0.018927 ms
+Processed: 5.1.11.tiff
+Time (edge): 0.01795 ms
+Processed: 4.1.06.tiff
+Time (edge): 0.016972 ms
+Processed: 4.1.07.tiff
+Time (edge): 0.019347 ms
+Processed: 4.1.03.tiff
+Time (edge): 0.016553 ms
+Processed: 7.1.04.tiff
+Time (edge): 0.017111 ms
+Processed: 5.2.09.tiff
+Time (edge): 0.01746 ms
+Processed: ruler.512.tiff
+Time (edge): 0.01746 ms
+Processed: 4.1.01.tiff
+Time (edge): 0.015645 ms
+Processed: 4.1.05.tiff
+Time (edge): 0.015645 ms
+Processed: 5.2.10.tiff
+Time (edge): 0.017042 ms
+Processed: 4.1.02.tiff
+Time (edge): 0.016134 ms
+Processed: 4.1.04.tiff
+Time (edge): 0.016552 ms
+Processed: 4.2.03.tiff
+Time (edge): 0.015644 ms
+Processed: 5.1.10.tiff
+Time (edge): 0.016064 ms
+Processed: 7.1.01.tiff
+Time (edge): 0.017042 ms
+Processed: boat.512.tiff
+Time (edge): 0.014527 ms
+Processed: 7.1.03.tiff
+Time (edge): 0.01753 ms
+Processed: 7.1.07.tiff
+Time (edge): 0.016063 ms
+Processed: 7.1.08.tiff
+Time (edge): 0.016133 ms
+Processed: gray21.512.tiff
+Time (edge): 0.018438 ms
+Processed: 4.2.06.tiff
+Time (edge): 0.016063 ms
+Processed: 7.1.09.tiff
+Time (edge): 0.016553 ms
+Processed: 7.1.06.tiff
+Total images processed: 39
+==============================
+Running HISTOGRAM EQUALIZATION...
+==============================
+Time (equalize): 0.836916 ms
+Processed: 1.3.08.tiff
+Time (equalize): 0.604203 ms
+Processed: 1.4.06.tiff
+Time (equalize): 0.237043 ms
+Processed: 1.1.08.tiff
+Time (equalize): 0.25171 ms
+Processed: texmos3.p512.tiff
+Time (equalize): 0.477858 ms
+Processed: 1.3.11.tiff
+Time (equalize): 0.307584 ms
+Processed: 1.5.02.tiff
+Time (equalize): 0.577732 ms
+Processed: 1.4.03.tiff
+Time (equalize): 0.245983 ms
+Processed: 1.5.04.tiff
+Time (equalize): 0.248358 ms
+Processed: 1.2.12.tiff
+Time (equalize): 0.238021 ms
+Processed: 1.1.01.tiff
+Time (equalize): 0.227057 ms
+Processed: 1.5.06.tiff
+Time (equalize): 0.217627 ms
+Processed: 1.1.05.tiff
+Time (equalize): 0.163221 ms
+Processed: 1.1.06.tiff
+Time (equalize): 0.421078 ms
+Processed: 1.4.05.tiff
+Time (equalize): 0.201075 ms
+Processed: 1.2.09.tiff
+Time (equalize): 0.18124 ms
+Processed: 1.1.11.tiff
+Time (equalize): 0.191646 ms
+Processed: 1.2.07.tiff
+Time (equalize): 0.175582 ms
+Processed: 1.2.13.tiff
+Time (equalize): 0.381826 ms
+Processed: 1.3.02.tiff
+Time (equalize): 0.361083 ms
+Processed: 1.3.13.tiff
+Time (equalize): 0.189201 ms
+Processed: texmos2.p512.tiff
+Time (equalize): 0.466544 ms
+Processed: 1.3.09.tiff
+Time (equalize): 0.25646 ms
+Processed: texmos2.s512.tiff
+Time (equalize): 0.365273 ms
+Processed: 1.3.07.tiff
+Time (equalize): 0.180332 ms
+Processed: 1.2.03.tiff
+Time (equalize): 0.174605 ms
+Processed: 1.1.02.tiff
+Time (equalize): 0.37519 ms
+Processed: 1.4.02.tiff
+Time (equalize): 0.258346 ms
+Processed: texmos3.s512.tiff
+Time (equalize): 0.171742 ms
+Processed: 1.5.07.tiff
+Time (equalize): 0.191157 ms
+Processed: 1.2.04.tiff
+Time (equalize): 0.148554 ms
+Processed: 1.1.09.tiff
+Time (equalize): 0.176072 ms
+Processed: 1.2.02.tiff
+Time (equalize): 0.412556 ms
+Processed: 1.4.10.tiff
+Time (equalize): 0.372328 ms
+Processed: 1.3.06.tiff
+Time (equalize): 0.158472 ms
+Processed: 1.1.13.tiff
+Time (equalize): 0.193951 ms
+Processed: 1.1.03.tiff
+Time (equalize): 0.200586 ms
+Processed: 1.5.03.tiff
+Time (equalize): 0.437629 ms
+Processed: 1.3.05.tiff
+Time (equalize): 0.422474 ms
+Processed: 1.4.01.tiff
+Time (equalize): 0.206244 ms
+Processed: 1.2.05.tiff
+Time (equalize): 0.235647 ms
+Processed: 1.2.08.tiff
+Time (equalize): 0.408855 ms
+Processed: 1.4.12.tiff
+Time (equalize): 0.409693 ms
+Processed: 1.4.11.tiff
+Time (equalize): 0.37575 ms
+Processed: 1.4.08.tiff
+Time (equalize): 0.165106 ms
+Processed: 1.5.01.tiff
+Time (equalize): 0.16797 ms
+Processed: 1.1.04.tiff
+Time (equalize): 0.18117 ms
+Processed: 1.2.01.tiff
+Time (equalize): 0.187805 ms
+Processed: 1.2.10.tiff
+Time (equalize): 0.414512 ms
+Processed: 1.4.04.tiff
+Time (equalize): 0.415909 ms
+Processed: 1.4.09.tiff
+Time (equalize): 0.391744 ms
+Processed: 1.3.10.tiff
+Time (equalize): 0.398378 ms
+Processed: 1.4.07.tiff
+Time (equalize): 0.210015 ms
+Processed: 1.2.06.tiff
+Time (equalize): 0.193532 ms
+Processed: 1.5.05.tiff
+Time (equalize): 0.212879 ms
+Processed: texmos1.p512.tiff
+Time (equalize): 0.217697 ms
+Processed: 1.2.11.tiff
+Time (equalize): 0.439096 ms
+Processed: 1.3.01.tiff
+Time (equalize): 0.456487 ms
+Processed: 1.3.12.tiff
+Time (equalize): 0.199189 ms
+Processed: 1.1.12.tiff
+Time (equalize): 0.408296 ms
+Processed: 1.3.04.tiff
+Time (equalize): 0.206244 ms
+Processed: texmos3b.p512.tiff
+Time (equalize): 0.43295 ms
+Processed: 1.3.03.tiff
+Time (equalize): 0.191227 ms
+Processed: 1.1.10.tiff
+Time (equalize): 0.20771 ms
+Processed: 1.1.07.tiff
+Total images processed: 64
+Time (equalize): 0.374772 ms
+Processed: 4.2.07.tiff
+Time (equalize): 0.085696 ms
+Processed: 5.1.14.tiff
+Time (equalize): 0.072845 ms
+Processed: 5.1.09.tiff
+Time (equalize): 0.112166 ms
+Processed: 5.1.13.tiff
+Time (equalize): 0.236136 ms
+Processed: 7.1.02.tiff
+Time (equalize): 0.079969 ms
+Processed: 4.1.08.tiff
+Time (equalize): 0.325534 ms
+Processed: 5.3.02.tiff
+Time (equalize): 0.15002 ms
+Processed: 5.2.08.tiff
+Time (equalize): 0.15903 ms
+Processed: 7.1.05.tiff
+Time (equalize): 0.414442 ms
+Processed: 7.2.01.tiff
+Time (equalize): 0.153792 ms
+Processed: 4.2.01.tiff
+Time (equalize): 0.165106 ms
+Processed: 4.2.05.tiff
+Time (equalize): 0.162661 ms
+Processed: 7.1.10.tiff
+Time (equalize): 0.080877 ms
+Processed: 5.1.12.tiff
+Time (equalize): 0.392651 ms
+Processed: 5.3.01.tiff
+Time (equalize): 0.177817 ms
+Processed: house.tiff
+Time (equalize): 0.086953 ms
+Processed: 5.1.11.tiff
+Time (equalize): 0.071937 ms
+Processed: 4.1.06.tiff
+Time (equalize): 0.081855 ms
+Processed: 4.1.07.tiff
+Time (equalize): 0.080458 ms
+Processed: 4.1.03.tiff
+Time (equalize): 0.182637 ms
+Processed: 7.1.04.tiff
+Time (equalize): 0.164617 ms
+Processed: 5.2.09.tiff
+Time (equalize): 0.303743 ms
+Processed: ruler.512.tiff
+Time (equalize): 0.071449 ms
+Processed: 4.1.01.tiff
+Time (equalize): 0.083252 ms
+Processed: 4.1.05.tiff
+Time (equalize): 0.189691 ms
+Processed: 5.2.10.tiff
+Time (equalize): 0.081436 ms
+Processed: 4.1.02.tiff
+Time (equalize): 0.072845 ms
+Processed: 4.1.04.tiff
+Time (equalize): 0.147576 ms
+Processed: 4.2.03.tiff
+Time (equalize): 0.078922 ms
+Processed: 5.1.10.tiff
+Time (equalize): 0.174535 ms
+Processed: 7.1.01.tiff
+Time (equalize): 0.166504 ms
+Processed: boat.512.tiff
+Time (equalize): 0.174535 ms
+Processed: 7.1.03.tiff
+Time (equalize): 0.172649 ms
+Processed: 7.1.07.tiff
+Time (equalize): 0.182147 ms
+Processed: 7.1.08.tiff
+Time (equalize): 0.279647 ms
+Processed: gray21.512.tiff
+Time (equalize): 0.148554 ms
+Processed: 4.2.06.tiff
+Time (equalize): 0.171742 ms
+Processed: 7.1.09.tiff
+Time (equalize): 0.166084 ms
+Processed: 7.1.06.tiff
+Total images processed: 39
+==============================
+Running SHARPENING...
+==============================
+Time (sharpen): 0.249335 ms
+Processed: 1.3.08.tiff
+Time (sharpen): 0.018438 ms
+Processed: 1.4.06.tiff
+Time (sharpen): 0.012362 ms
+Processed: 1.1.08.tiff
+Time (sharpen): 0.012292 ms
+Processed: texmos3.p512.tiff
+Time (sharpen): 0.014667 ms
+Processed: 1.3.11.tiff
+Time (sharpen): 0.018439 ms
+Processed: 1.5.02.tiff
+Time (sharpen): 0.01327 ms
+Processed: 1.4.03.tiff
+Time (sharpen): 0.013689 ms
+Processed: 1.5.04.tiff
+Time (sharpen): 0.011803 ms
+Processed: 1.2.12.tiff
+Time (sharpen): 0.014178 ms
+Processed: 1.1.01.tiff
+Time (sharpen): 0.014667 ms
+Processed: 1.5.06.tiff
+Time (sharpen): 0.012781 ms
+Processed: 1.1.05.tiff
+Time (sharpen): 0.013689 ms
+Processed: 1.1.06.tiff
+Time (sharpen): 0.01313 ms
+Processed: 1.4.05.tiff
+Time (sharpen): 0.014247 ms
+Processed: 1.2.09.tiff
+Time (sharpen): 0.0132 ms
+Processed: 1.1.11.tiff
+Time (sharpen): 0.011804 ms
+Processed: 1.2.07.tiff
+Time (sharpen): 0.0132 ms
+Processed: 1.2.13.tiff
+Time (sharpen): 0.012781 ms
+Processed: 1.3.02.tiff
+Time (sharpen): 0.012292 ms
+Processed: 1.3.13.tiff
+Time (sharpen): 0.015226 ms
+Processed: texmos2.p512.tiff
+Time (sharpen): 0.012362 ms
+Processed: 1.3.09.tiff
+Time (sharpen): 0.012362 ms
+Processed: texmos2.s512.tiff
+Time (sharpen): 0.013201 ms
+Processed: 1.3.07.tiff
+Time (sharpen): 0.013759 ms
+Processed: 1.2.03.tiff
+Time (sharpen): 0.011873 ms
+Processed: 1.1.02.tiff
+Time (sharpen): 0.014736 ms
+Processed: 1.4.02.tiff
+Time (sharpen): 0.012781 ms
+Processed: texmos3.s512.tiff
+Time (sharpen): 0.013689 ms
+Processed: 1.5.07.tiff
+Time (sharpen): 0.012851 ms
+Processed: 1.2.04.tiff
+Time (sharpen): 0.0132 ms
+Processed: 1.1.09.tiff
+Time (sharpen): 0.01327 ms
+Processed: 1.2.02.tiff
+Time (sharpen): 0.014178 ms
+Processed: 1.4.10.tiff
+Time (sharpen): 0.01327 ms
+Processed: 1.3.06.tiff
+Time (sharpen): 0.02214 ms
+Processed: 1.1.13.tiff
+Time (sharpen): 0.014248 ms
+Processed: 1.1.03.tiff
+Time (sharpen): 0.014178 ms
+Processed: 1.5.03.tiff
+Time (sharpen): 0.014666 ms
+Processed: 1.3.05.tiff
+Time (sharpen): 0.016063 ms
+Processed: 1.4.01.tiff
+Time (sharpen): 0.013759 ms
+Processed: 1.2.05.tiff
+Time (sharpen): 0.012711 ms
+Processed: 1.2.08.tiff
+Time (sharpen): 0.01327 ms
+Processed: 1.4.12.tiff
+Time (sharpen): 0.015156 ms
+Processed: 1.4.11.tiff
+Time (sharpen): 0.018438 ms
+Processed: 1.4.08.tiff
+Time (sharpen): 0.014667 ms
+Processed: 1.5.01.tiff
+Time (sharpen): 0.011454 ms
+Processed: 1.1.04.tiff
+Time (sharpen): 0.012292 ms
+Processed: 1.2.01.tiff
+Time (sharpen): 0.011733 ms
+Processed: 1.2.10.tiff
+Time (sharpen): 0.012781 ms
+Processed: 1.4.04.tiff
+Time (sharpen): 0.014178 ms
+Processed: 1.4.09.tiff
+Time (sharpen): 0.013758 ms
+Processed: 1.3.10.tiff
+Time (sharpen): 0.016064 ms
+Processed: 1.4.07.tiff
+Time (sharpen): 0.016063 ms
+Processed: 1.2.06.tiff
+Time (sharpen): 0.014597 ms
+Processed: 1.5.05.tiff
+Time (sharpen): 0.0132 ms
+Processed: texmos1.p512.tiff
+Time (sharpen): 0.011873 ms
+Processed: 1.2.11.tiff
+Time (sharpen): 0.013689 ms
+Processed: 1.3.01.tiff
+Time (sharpen): 0.01795 ms
+Processed: 1.3.12.tiff
+Time (sharpen): 0.0132 ms
+Processed: 1.1.12.tiff
+Time (sharpen): 0.014177 ms
+Processed: 1.3.04.tiff
+Time (sharpen): 0.013689 ms
+Processed: texmos3b.p512.tiff
+Time (sharpen): 0.012851 ms
+Processed: 1.3.03.tiff
+Time (sharpen): 0.012711 ms
+Processed: 1.1.10.tiff
+Time (sharpen): 0.012362 ms
+Processed: 1.1.07.tiff
+Total images processed: 64
+Time (sharpen): 1668.53 ms
+Processed: 4.2.07.tiff
+Time (sharpen): 892.543 ms
+Processed: 5.1.14.tiff
+Time (sharpen): 1746.7 ms
+Processed: 5.1.09.tiff
+Time (sharpen): 901.92 ms
+Processed: 5.1.13.tiff
+Time (sharpen): 1672.02 ms
+Processed: 7.1.02.tiff
+Time (sharpen): 887.448 ms
+Processed: 4.1.08.tiff
+Time (sharpen): 840.666 ms
+Processed: 5.3.02.tiff
+Time (sharpen): 1708.06 ms
+Processed: 5.2.08.tiff
+Time (sharpen): 892.377 ms
+Processed: 7.1.05.tiff
+Time (sharpen): 916.824 ms
+Processed: 7.2.01.tiff
+Time (sharpen): 910.418 ms
+Processed: 4.2.01.tiff
+Time (sharpen): 885.267 ms
+Processed: 4.2.05.tiff
+Time (sharpen): 0.327908 ms
+Processed: 7.1.10.tiff
+Time (sharpen): 0.006705 ms
+Processed: 5.1.12.tiff
+Time (sharpen): 0.004749 ms
+Processed: 5.3.01.tiff
+Time (sharpen): 0.003772 ms
+Processed: house.tiff
+Time (sharpen): 0.001886 ms
+Processed: 5.1.11.tiff
+Time (sharpen): 0.003701 ms
+Processed: 4.1.06.tiff
+Time (sharpen): 0.00475 ms
+Processed: 4.1.07.tiff
+Time (sharpen): 0.002305 ms
+Processed: 4.1.03.tiff
+Time (sharpen): 0.002375 ms
+Processed: 7.1.04.tiff
+Time (sharpen): 0.002374 ms
+Processed: 5.2.09.tiff
+Time (sharpen): 0.002444 ms
+Processed: ruler.512.tiff
+Time (sharpen): 0.002794 ms
+Processed: 4.1.01.tiff
+Time (sharpen): 0.002445 ms
+Processed: 4.1.05.tiff
+Time (sharpen): 0.002445 ms
+Processed: 5.2.10.tiff
+Time (sharpen): 0.002304 ms
+Processed: 4.1.02.tiff
+Time (sharpen): 0.001886 ms
+Processed: 4.1.04.tiff
+Time (sharpen): 0.002374 ms
+Processed: 4.2.03.tiff
+Time (sharpen): 0.001956 ms
+Processed: 5.1.10.tiff
+Time (sharpen): 0.002375 ms
+Processed: 7.1.01.tiff
+Time (sharpen): 0.002374 ms
+Processed: boat.512.tiff
+Time (sharpen): 0.002794 ms
+Processed: 7.1.03.tiff
+Time (sharpen): 0.025981 ms
+Processed: 7.1.07.tiff
+Time (sharpen): 0.002793 ms
+Processed: 7.1.08.tiff
+Time (sharpen): 0.002794 ms
+Processed: gray21.512.tiff
+Time (sharpen): 0.002305 ms
+Processed: 4.2.06.tiff
+Time (sharpen): 0.003771 ms
+Processed: 7.1.09.tiff
+Time (sharpen): 0.002375 ms
+Processed: 7.1.06.tiff
+Total images processed: 39
+==============================
+ALL PROCESSING COMPLETE
+==============================
